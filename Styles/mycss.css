@@ -1,0 +1,20 @@
+.nav-link{
+    color: #8400ff;
+}
+.navbar-nav .nav-link.active{
+    color: rgb(255, 255, 255);
+}
+.bg-body-tertiary {
+    --bs-bg-opacity: 1;
+    background-color: #242323 !important;
+}
+.navbar-brand img{
+    width: 50px;
+}
+.nav-item{
+    font-size: 40px;
+    
+}
+.p{
+    color: aquamarine;
+}
